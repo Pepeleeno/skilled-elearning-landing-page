@@ -89,7 +89,7 @@ header img {
 
 main {
   background: linear-gradient(rgba(255, 255, 255, 1), rgba(240, 241, 255, 1));
-  height: 888px;
+  height: 920px;
   margin-top: -50px;
 }
 
@@ -173,7 +173,6 @@ footer {
   flex-direction: row;
   justify-content: space-between;
   align-items:baseline;
-  margin-bottom: -50px;
 }
 
 footer img {
